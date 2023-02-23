@@ -1,0 +1,21 @@
+---
+title: "Video_Quarto"
+author: "jhoy dupitas"
+output: html_document
+---
+
+1\. **What packages are they talking about?**
+
+-   They are talking about the Quarto package, one of Rstudio's latest additions. According to them, Quarto was created to be multilingual, starting with R, Python, JavaScript, and Julia, with the intention that it would function even for languages that don't yet exist. Quarto seeks to significantly improve the creation and collaboration of technical and scientific documents.
+
+2\. **Why is there a shift from rmarkdown to the packages?**
+
+-   Since YAML, the language used for both R Markdown and Quarto document header information, is supported by Quarto, there is a migration from rmarkdown to Quarto. This is because Allaire believes this to be one of Quarto's main advantages.
+
+3\. **What inspired them to the said packages?**
+
+-   They take their cue from Quarto's support for cross-language collaboration. Founder and Co-Director of Opens Capes, Julia Stewart Lowndes, remarked during the keynote address at the Studio Conference. According to Allaire, Opencapes tested Quarto's beta version with NASA and discovered that it made it simpler for Python and R users to interact.
+
+4\. **What cool features in the packages did you like best? Please discuss?**
+
+-   The R-generation Markdown version of RStudio that is available in quarto is its best feature. While being able to show the majority of current Rmd files without alteration, it also comes with dozens of new features and capabilities. Collaboration between coding languages is made possible via Quarto. More than 40 distinct file formats, including Word, OpenOffice, PowerPoint, and others, are supported for exporting Quarto documents.
